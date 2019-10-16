@@ -1,0 +1,20 @@
+{
+    "name": "jrb-armonya/router",
+    "description": "A light Router",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Armonya",
+            "email": "y.armonya@lala.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Armonya\\": "src/"
+        }
+    }
+}
